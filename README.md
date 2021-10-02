@@ -2,10 +2,11 @@
 
 - 🔭 Estou Trabalhando com Lua
 - 🌱 Estudando Lua
+- 🎮 Atualmente trabalho com [FiveM](https://discord.gg/p6xWZVJrqx)
 
 ### Olá, Eu sou o Th! 💻
 
-[![Th](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4maWm6mM)
+[![Th](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p6xWZVJrqx)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ArthurJunior1251g&count_private=true&show_icons=true&theme=dark">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurJunior1251g&hide=php&layout=compact&theme=dark">
