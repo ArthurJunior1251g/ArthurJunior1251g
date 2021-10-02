@@ -5,10 +5,10 @@
 
 ### Olá, Eu sou o Th! 💻
 
-[![Suricato](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/srcq9ffR24)
+[![Th](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4maWm6mM)
 
-![Combo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurJunior1251g&show_icons=true&theme=dark&count_private=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurJunior1251g&layout=compact&langs_count=7&theme=dark"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=ArthurJunior1251g&count_private=true&show_icons=true&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurJunior1251g&hide=php&layout=compact&theme=dark">
 
 ## Tecnologias que trabalho atualmente:
 
