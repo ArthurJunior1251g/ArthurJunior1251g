@@ -1,5 +1,3 @@
-### 👋
-
 - 🔭 Estou Trabalhando com Lua
 - 🌱 Estudando Lua
 - 🎮 Atualmente trabalho com [FiveM](https://discord.gg/p6xWZVJrqx)
